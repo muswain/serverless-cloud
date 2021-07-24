@@ -4,6 +4,8 @@
   "description": "Default Serverless Cloud service",
   "main": "index.js",
   "devDependencies": {
-    "@types/node": "^16.4.1"
+    "@types/jest": "^26.0.24",
+    "@types/node": "^16.4.1",
+    "jest": "^27.0.6"
   }
 }
