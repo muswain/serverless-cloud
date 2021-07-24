@@ -2,5 +2,8 @@
   "name": "starter-service",
   "version": "1.0.0",
   "description": "Default Serverless Cloud service",
-  "main": "index.js"
+  "main": "index.js",
+  "devDependencies": {
+    "@types/node": "^16.4.1"
+  }
 }
